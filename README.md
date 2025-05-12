@@ -129,4 +129,4 @@ MIT License — see `LICENSE`.
 
 ---
 
-Built with 🐍 and ❤️ by [Your Name]
+Built with 🐍 and ❤️ by 404connernotfound
